@@ -1,0 +1,7 @@
+S|Coming from bloody quest to remove curse placed on them by an evil wizard... |D-Run;
+A|That suicidal entourage rush forwards and do battle with adorable Mind Flayer.|A-Dance;D-Run;
+D|The tenacious squad of sell-swords rush forwards and do battle with a pack of completely invisible Box of Puppies.|B-Run;Z-Dance;
+C|The tenacious group flee in terror from a pack of adventuring Party of Heroes|Z-Hide;Z-Fight;
+E|That suicidal entourage flee in terror from a pack of adventuring Party of Heroes|Z-Hide;B-Fight;
+B|The tenacious party stare, mouths agape at a pack of adorable Beholder.|Z-Hide;Z-Fight;
+Z|The Party realizes they are characters in an adventure, and the fourth wall is broken.|-;

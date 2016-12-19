@@ -1,0 +1,7 @@
+S|Hello, and welcome to the linear four step adventure!|A;
+A|Welcome to A|Z;
+B|Welcome to B|C;
+C|Welcome to C|D;
+D|Welcome to D|E;
+E|You've reached E, end of adventure|Z;
+Z|Thank you for playing, Champion. Go forth and be awesome!|;

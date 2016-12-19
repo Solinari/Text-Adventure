@@ -1,0 +1,20 @@
+FROM CLIENT: Client has selected the follwing adventure choice: 
+RandomAdventure.txt
+FROM SERVER: Sent to client the following scene and keys: 
+Coming from bloody quest to remove curse placed on them by an evil wizard... |D-Run;
+FROM CLIENT: Client chose:
+Player chose: D-Run
+FROM CLIENT: Client has selected the follwing adventure choice: 
+RandomAdventure.txt
+FROM SERVER: Sent to client the following scene and keys: 
+Coming from bloody quest to remove curse placed on them by an evil wizard... |D-Run;
+FROM CLIENT: Client chose:
+Player chose: D-Run
+FROM CLIENT: Client has selected the follwing adventure choice: 
+RandomAdventure.txt
+FROM SERVER: Sent to client the following scene and keys: 
+Coming from bloody quest to remove curse placed on them by an evil wizard... |D-Run;
+FROM CLIENT: Client chose:
+Player chose: D-Run
+FROM SERVER: Sent to client the following scene and keys:
+The tenacious squad of sell-swords rush forwards and do battle with a pack of completely invisible Box of Puppies.|B-Run;Z-Dance;

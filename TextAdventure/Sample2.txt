@@ -1,0 +1,5 @@
+S|Hello, and welcome to the circular, endless adventure!|A;B;C;D
+A|You're now at A! Where would you like to go?|B;C;D
+B|You're now at B! Where would you like to go?|A;C;D
+C|You're now at C! Where would you like to go?|A;B;D
+D|You're now at D! Where would you like to go?|A;B;C
